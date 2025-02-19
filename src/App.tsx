@@ -1,7 +1,7 @@
-import { motion } from 'framer-motion';
-import { useInView } from 'react-intersection-observer';
+// import { motion } from 'framer-motion';
+// import { useInView } from 'react-intersection-observer';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { FaBasketballBall, FaFutbol, FaRunning, FaVolleyballBall } from 'react-icons/fa';
+import { FaBasketballBall, FaFutbol,  FaVolleyballBall } from 'react-icons/fa';
 import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
